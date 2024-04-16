@@ -30,4 +30,4 @@ This Bash script facilitates the transfer of files between Amazon S3 buckets. It
 
 - Ensure that you have the AWS CLI installed and configured with appropriate permissions to access the S3 buckets.
 - Make sure that the CSV file (`file.csv`) containing the list of file names is present in the same directory as the script.
-- Modify the script as needed to customize the file transfer process, such as changing the file paths or adding error handling.
+
