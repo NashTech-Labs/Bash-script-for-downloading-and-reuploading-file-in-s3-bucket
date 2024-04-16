@@ -25,3 +25,4 @@ done
 
 # Remove temporary directory
 rm -rf "$temp_dir"
+echo "Script completed."
